@@ -1,0 +1,5 @@
+<Data>
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+<glove6b50d>
+https://www.kaggle.com/watts2/glove6b50dtxt
